@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/binary_to_bcd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module binary_to_bcd
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/seven_seg_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seven_seg_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top

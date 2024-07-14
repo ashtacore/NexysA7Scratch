@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/mnt/Data/Programming/FPGA/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/binary_to_bcd.v,1720926200,verilog,,/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/seven_seg_controller.v,,binary_to_bcd,,,,,,,,
+/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/seven_seg_controller.v,1720926200,verilog,,/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/top.v,,seven_seg_controller,,,,,,,,
+/mnt/Data/Programming/FPGA/project_1/project_1.srcs/sources_1/new/top.v,1720926480,verilog,,,,top,,,,,,,,
